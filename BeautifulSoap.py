@@ -55,7 +55,7 @@ soup = BeautifulSoup(r.text, "lxml")
 #task22
 #print(soup.find_all(class_="container"))
 #task23
-#print(soup.find_all("p").remove("py"))
+#print(soup.find_all("p").change("py"))
 #task24
 #print(soup.find_all("p").append("py"))
 #task25
