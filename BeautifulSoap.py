@@ -44,7 +44,7 @@ soup = BeautifulSoup(r.text, "lxml")
 #print(soup.find_all("li"))
 #task18
 #import re
-#for i in soup.find_all(string=re.compile("Python")):
+#for i in soup.find_all(string=re.compile("bank")):
     #print("".join(i.split()))
 #task19
 #print(soup.find_all(id="top"))
