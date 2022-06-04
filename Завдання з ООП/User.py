@@ -21,8 +21,8 @@ class User:
     pass
 
 
-# us1 = User("Володимир", "Ігнатович", "15", "volodimir2007@gmail.com"
-# us2 = User("Юрій", "Бідяк", "17", "yuriibidyak77@gmail.com" 
+# us1 = User("Володимир", "Ігнатович", "15", "volodimir2007@gmail.com", 1)
+# us2 = User("Юрій", "Бідяк", "17", "yuriibidyak77@gmail.com", 2)
 
 # print(us1.describe_user())
 # print(us1.greeting_user())
